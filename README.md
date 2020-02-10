@@ -1,2 +1,16 @@
 # Statistical Learning Method
-Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets.
+This repo is the application on machine Learning using R.
+
+Methods includes: 
+
+- Flexible, data-adaptive methods for regression and classification models; 
+- Regression smoothers; 
+- Penalty methods; 
+- Assessing accuracy of prediction; 
+- Model selection; 
+- Robustness; 
+- Classification and regression trees; 
+- Nearest-neighbour methods; 
+- Neural networks; 
+- Model averaging and ensembles; 
+- Computational time and visualization for large data sets.
